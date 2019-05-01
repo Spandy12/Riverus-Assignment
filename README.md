@@ -1,2 +1,2 @@
-# Riverus-Spandan-
+# Riverus-Spandan
 Assignment NLP
