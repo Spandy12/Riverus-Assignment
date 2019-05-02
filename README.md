@@ -10,7 +10,7 @@ lr_model.pickle and rf_model.pickle files contain the trained Logistic Regressio
 
 riverus-spandan-assignment.ipynb contains the source code for the assignment.
 
-Prediction.csv contains the predicted data.
+Predictions1.csv contains the predicted data/final output.
 
 Report.pdf contains a brief report about the approach taken to address the given task.
 
