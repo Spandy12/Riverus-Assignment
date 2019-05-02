@@ -2,6 +2,8 @@
 
 # Files:
 
+The __results__files folder contains images of the outputs.
+
 The assignment_riverus folder contains the taining and testing data.
 
 lr_model.pickle and rf_model.pickle files contain the trained Logistic Regression and Random Forest models respectively.
