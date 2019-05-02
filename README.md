@@ -14,8 +14,6 @@ Predictions1.csv contains the predicted data/final output.
 
 Report.pdf contains a brief report about the approach taken to address the given task.
 
-A few image files are also present which contain bar graphs and histograms that were obtained during analysis of the text data.
-
 # Instructions:
 
 The assignment is done in Python 3.
