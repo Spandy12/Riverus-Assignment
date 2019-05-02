@@ -2,17 +2,19 @@
 
 # Files:
 
-The __results__files folder contains images of the outputs.
+# The __results__files folder contains images of the outputs.
 
-The assignment_riverus folder contains the taining and testing data.
+# The assignment_riverus folder contains the taining and testing data.
 
-lr_model.pickle and rf_model.pickle files contain the trained Logistic Regression and Random Forest models respectively.
+# lr_model.pickle and rf_model.pickle files contain the trained Logistic Regression and Random Forest models respectively.
 
-riverus-spandan-assignment.ipynb contains the source code for the assignment.
+# riverus-spandan-assignment.ipynb contains the source code for the assignment.
 
-Predictions1.csv contains the predicted data/final output.
+# Predictions1.csv contains the predicted data/final output.
 
-Report.pdf contains a brief report about the approach taken to address the given task.
+# Report.pdf contains a brief report about the approach taken to address the given task.
+
+# Note: The classification report can be found in both Report.pdf and __results__files.
 
 # Instructions:
 
